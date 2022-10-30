@@ -1,0 +1,15 @@
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/bin/Debug/net5.0/Coderbyte.deps.json
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/bin/Debug/net5.0/Coderbyte.runtimeconfig.json
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/bin/Debug/net5.0/Coderbyte.runtimeconfig.dev.json
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/bin/Debug/net5.0/Coderbyte.dll
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/bin/Debug/net5.0/ref/Coderbyte.dll
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/bin/Debug/net5.0/Coderbyte.pdb
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.csproj.AssemblyReference.cache
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.AssemblyInfoInputs.cache
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.AssemblyInfo.cs
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.csproj.CoreCompileInputs.cache
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.dll
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/ref/Coderbyte.dll
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.pdb
+/Users/Bulat/Desktop/Developing/Projects/Coderbyte/Coderbyte/Coderbyte/obj/Debug/net5.0/Coderbyte.genruntimeconfig.cache
